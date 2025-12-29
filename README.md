@@ -13,11 +13,15 @@ Hello there, I am Bramwel. Nice to meet you <br>I have been expecting you. we th
 ![](https://nirzak-streak-stats.vercel.app/?user=dev-bramwel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bramwel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-bramwel&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-bramwel&theme=github-compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-bramwel&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-bramwel&label=Visitors&color=1f222e&style=flat)
+
+
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bramwel3133@gmail.com) 
