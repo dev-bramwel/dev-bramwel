@@ -1,46 +1,26 @@
-# Bramwel Mutugi
-Full-stack developer crafting Flutter and Flask apps with product-ready Figma designs.
+# Bramwel_M
+# 💫 About Me:
+Hello there, I am Bramwel. Nice to meet you <br>I have been expecting you. we there's infinite possibilities to what we will do<br>Speaking of that, Here is what I can do;<n>Web application development using php, flutter, python and java.<br>I'm also a designer in figma,
 
-## About
-- Building web and mobile experiences with Flutter, Flask, PHP, and JavaScript.
-- Shipping production-ready UI/UX in Figma and translating designs into code.
-- Exploring better testing and deployment workflows to keep releases smooth.
 
-## Featured Work
-- [Project One](#) — brief summary of what it does and the stack used.
-- [Project Two](#) — brief summary of what it does and the stack used.
-- [Project Three](#) — brief summary of what it does and the stack used.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramwelm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mutugibramwel@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mutug.i_/) 
 
-## Services
-- Web apps and APIs with Flask, PHP, and JavaScript.
-- Flutter mobile apps with clean, performant UIs.
-- UI/UX design in Figma with developer-friendly handoff.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-bramwel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dev-bramwel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bramwel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Tech Stack
-**Frontend / Mobile:** HTML, CSS, JavaScript, Flutter  
-**Backend:** Python (Flask), PHP  
-**Data / Analytics:** Pandas, NumPy  
-**Design:** Figma, Adobe Suite  
-**Other:** C, Anaconda
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-bramwel&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bramwel&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bramwel&layout=compact&hide_border=true&theme=transparent)
-
-<details>
-<summary>More</summary>
-
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=dev-bramwel&theme=dark&hide_border=false)
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=dev-bramwel&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
-
-</details>
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramwelm/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mutugibramwel@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mutug.i_/)
-
+---
 [![](https://visitcount.itsvg.in/api?id=dev-bramwel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Support
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bramwel3133@gmail.com)
+	## 💰 You can help me by Donating
+	[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bramwel3133@gmail.com) 
 
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
